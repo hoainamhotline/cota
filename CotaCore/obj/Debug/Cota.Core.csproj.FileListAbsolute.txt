@@ -1,0 +1,7 @@
+E:\My Projects\Other\cota\CotaCore\bin\Cota.Core.dll.config
+E:\My Projects\Other\cota\CotaCore\bin\Cota.Core.dll
+E:\My Projects\Other\cota\CotaCore\bin\Cota.Core.pdb
+E:\My Projects\Other\cota\CotaCore\obj\Debug\Cota.Core.csprojResolveAssemblyReference.cache
+E:\My Projects\Other\cota\CotaCore\obj\Debug\Cota.Core.dll
+E:\My Projects\Other\cota\CotaCore\obj\Debug\Cota.Core.pdb
+E:\My Projects\Other\cota\CotaCore\bin\MySql.Data.dll

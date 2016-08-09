@@ -9,7 +9,7 @@ using Cota.Core.Business;
 using Cota.Core;
 using System.ServiceModel.Activation;
 using System.Reflection;
-namespace COTACOREWS
+namespace CotaCoreWS
 {
     /// Class cho service - các hàm trong class này sẽ được viết thêm tại mỗi module - nằm trong thư mục service 
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Required)]

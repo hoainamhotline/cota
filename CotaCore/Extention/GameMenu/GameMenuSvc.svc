@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Extention.DOC.GameMenuSvc" CodeBehind="GameMenuSvc.svc.cs" %>

@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 using Cota.Core.Business;
 using Cota.Core;
 using System.ServiceModel.Activation;
-namespace COTACOREWS
+namespace CotaCoreWS
 {
     public partial class CotaCore : ICotaCore
     {

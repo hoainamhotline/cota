@@ -10,7 +10,7 @@ namespace Cota.Core
     {
         public static void add(string msg)
         {
-            SqlCommand cmd = new SqlCommand("INSERT INTO [Core].[dbo].[SYS_Log] ([userID]  ,[logConten] ,[createdDate])  VALUES (@userID,@logConten,@createdDate)");
+            SqlCommand cmd = new SqlCommand("INSERT INTO [CGP].[dbo].[SYS_Log] ([userID]  ,[logConten] ,[createdDate])  VALUES (@userID,@logConten,@createdDate)");
             cmd.Parameters.AddWithValue("@userID",Init.UserConfig.LOGEDIN_ID);
             cmd.Parameters.AddWithValue("@logConten",msg);
             cmd.Parameters.AddWithValue("@createdDate",DateTime.Now);

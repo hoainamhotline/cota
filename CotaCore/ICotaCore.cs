@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.Text;
 using Cota.Core.Business;
 using System.Data.SqlClient;
-namespace COTACOREWS
+namespace CotaCoreWS
 {
     /// <summary>
     /// Interface cho service - các hàm trong Interface này sẽ được viết thêm tại mỗi module - nằm trong thư mục service 

@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.Text;
 using Cota.Core.Business;
 using System.Data.SqlClient;
-namespace COTACOREWS
+namespace CotaCoreWS
 {
     public partial interface ICotaCore
     {

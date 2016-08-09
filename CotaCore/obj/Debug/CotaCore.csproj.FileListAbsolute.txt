@@ -1,7 +1,0 @@
-E:\My Projects\Other\cota\CotaCore\bin\CGPWS.dll.config
-E:\My Projects\Other\cota\CotaCore\bin\CGPWS.dll
-E:\My Projects\Other\cota\CotaCore\bin\CGPWS.pdb
-E:\My Projects\Other\cota\CotaCore\bin\MySql.Data.dll
-E:\My Projects\Other\cota\CotaCore\obj\Debug\CotaCore.csprojResolveAssemblyReference.cache
-E:\My Projects\Other\cota\CotaCore\obj\Debug\CGPWS.dll
-E:\My Projects\Other\cota\CotaCore\obj\Debug\CGPWS.pdb
