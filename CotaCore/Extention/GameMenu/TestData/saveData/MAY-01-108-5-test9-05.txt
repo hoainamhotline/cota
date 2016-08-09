@@ -1,0 +1,38 @@
+
+Initializing GameModeComponents for mode=CLASSIC.
+
+netUID: 5 defaultname
+
+000050.490|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000050.501|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (LeeSin) with skinID 0 on team 100 for clientID 6 and summonername (YM.breaKing Game) (is HUMAN PLAYER)
+000050.502|       0.0000kb|      0.0000kb added| ALWAYS| Hero LeeSin(0) created for YM.breaKing Game
+000050.631|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000050.650|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Zed) with skinID 2 on team 100 for clientID 8 and summonername (kimdenthuiui) (is HUMAN PLAYER)
+000050.650|       0.0000kb|      0.0000kb added| ALWAYS| Hero Zed(2) created for kimdenthuiui
+000050.650|       0.0000kb|      0.0000kb added| ALWAYS| Spawning heroes/minions
+000050.703|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000050.709|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Ahri) with skinID 0 on team 100 for clientID 0 and summonername (vinataba1234) (is HUMAN PLAYER)
+000050.773|       0.0000kb|      0.0000kb added| ALWAYS| Hero Ahri(0) created for vinataba1234
+000052.186|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000052.199|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (XinZhao) with skinID 0 on team 100 for clientID 5 and summonername (tuananh7597) (is HUMAN PLAYER)
+000052.199|       0.0000kb|      0.0000kb added| ALWAYS| Hero XinZhao(0) created for tuananh7597
+000052.200|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000052.649|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Kalista) with skinID 0 on team 100 for clientID 1 and summonername (oOoMauLanhoOo) (is HUMAN PLAYER)
+000052.649|       0.0000kb|      0.0000kb added| ALWAYS| Hero Kalista(0) created for oOoMauLanhoOo
+000052.650|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000052.654|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Morgana) with skinID 6 on team 200 for clientID 9 and summonername (Yêu_Tao_À) (is HUMAN PLAYER)
+000052.654|       0.0000kb|      0.0000kb added| ALWAYS| Hero Morgana(6) created for Yêu_Tao_À
+000052.654|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000052.665|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Rumble) with skinID 0 on team 200 for clientID 3 and summonername (walk_alone1995) (is HUMAN PLAYER)
+000052.665|       0.0000kb|      0.0000kb added| ALWAYS| Hero Rumble(0) created for walk_alone1995
+000053.000|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000053.001|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (LeeSin) with skinID 5 on team 200 for clientID 2 and summonername (ZzOnlyC.no1) (is HUMAN PLAYER)
+000053.001|       0.0000kb|      0.0000kb added| ALWAYS| Hero LeeSin(5) created for ZzOnlyC.no1
+000053.001|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000053.017|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Tristana) with skinID 6 on team 200 for clientID 4 and summonername (hat.love94) (is HUMAN PLAYER)
+000053.017|       0.0000kb|      0.0000kb added| ALWAYS| Hero Tristana(6) created for hat.love94uu
+000053.018|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000053.025|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Teemo) with skinID 0 on team 200 for clientID 7 and summonername (tao la nien) (is HUMAN PLAYER)
+000053.025|       0.0000kb|      0.0000kb added| ALWAYS| Hero Teemo(0) created for tao la nien
+
+{"messageType":"riot__game_client__connection_info","message_body":"Game exited","exit_code":"EXITCODE_WIN"}

@@ -1,0 +1,25 @@
+5/27/2015 12:39:57 PM: Start new tranfer sesion
+5/27/2015 12:39:57 PM: Thông tin chuyển tiền thành công: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 12:39:57 PM: hoàn thành section
+5/27/2015 12:45:22 PM: Start new tranfer sesion
+5/27/2015 12:45:22 PM: Thông tin chuyển tiền: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 12:45:22 PM: hoàn thành section
+5/27/2015 12:45:31 PM: Start new tranfer sesion
+5/27/2015 12:45:31 PM: Thông tin chuyển tiền: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 12:45:31 PM: hoàn thành section
+5/27/2015 12:50:28 PM: Start new tranfer sesion
+5/27/2015 12:50:28 PM: Thông tin chuyển tiền: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 12:50:28 PM: hoàn thành section
+5/27/2015 12:53:56 PM: Start new tranfer sesion
+5/27/2015 12:53:56 PM: Thông tin chuyển tiền: số tiền 2000 đến tài khoản CHUQUAN1
+5/27/2015 12:53:56 PM: hoàn thành section
+5/27/2015 12:54:08 PM: Start new tranfer sesion
+5/27/2015 1:06:13 PM: Start new tranfer sesion
+5/27/2015 1:06:13 PM: Thông tin chuyển tiền: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 1:06:13 PM: hoàn thành section
+5/27/2015 3:08:20 PM: Start new tranfer sesion
+5/27/2015 3:08:20 PM: Thông tin chuyển tiền: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 3:08:20 PM: hoàn thành section
+5/27/2015 3:08:34 PM: Start new tranfer sesion
+5/27/2015 3:08:34 PM: Thông tin chuyển tiền: số tiền 1000 đến tài khoản CHUQUAN1
+5/27/2015 3:08:34 PM: hoàn thành section

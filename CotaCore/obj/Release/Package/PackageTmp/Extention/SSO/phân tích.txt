@@ -1,0 +1,3 @@
+﻿+ Sau mỗi khi tài khoản login thành công thì lưu lại IP và Tên máy, ID Tài khoản
++ Khi hàm sso được gọi sẽ checks IP của client, nếu trùng thì thực hiện login cho sesion này
++ Nếu 

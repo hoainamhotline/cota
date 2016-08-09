@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="COTACOREWS.CotaCore" CodeBehind="CotaCore.svc.cs" %>

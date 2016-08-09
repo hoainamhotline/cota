@@ -1,3 +1,0 @@
-1/10/2016 11:38:05 PM: Đọc file icon gặp lỗi filename: 60.ico
-1/10/2016 11:38:05 PM: Đọc file icon gặp lỗi filename: 61.ico
-1/10/2016 11:38:05 PM: Đọc file icon gặp lỗi filename: 62.ico
