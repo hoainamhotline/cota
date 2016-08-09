@@ -1,0 +1,9 @@
+E:\My Projects\Game Net\CGP\Server\ServerCode\bin\CGPWS.dll.config
+E:\My Projects\Game Net\CGP\Server\ServerCode\bin\CGPWS.dll
+E:\My Projects\Game Net\CGP\Server\ServerCode\bin\CGPWS.pdb
+E:\My Projects\Game Net\CGP\Server\ServerCode\bin\GameMenuLib.dll
+E:\My Projects\Game Net\CGP\Server\ServerCode\bin\ICSharpCode.SharpZipLib.dll
+E:\My Projects\Game Net\CGP\Server\ServerCode\bin\GameMenuLib.pdb
+E:\My Projects\Game Net\CGP\Server\ServerCode\obj\Debug\CGPWS.csprojResolveAssemblyReference.cache
+E:\My Projects\Game Net\CGP\Server\ServerCode\obj\Debug\CGPWS.dll
+E:\My Projects\Game Net\CGP\Server\ServerCode\obj\Debug\CGPWS.pdb

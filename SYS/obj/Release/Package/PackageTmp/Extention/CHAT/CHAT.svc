@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CHATWS.CHAT" CodeBehind="CHAT.svc.cs" %>

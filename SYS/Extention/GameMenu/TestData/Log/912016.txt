@@ -1,0 +1,8 @@
+1/9/2016 12:44:27 PM: ERROR: lỗi trong quá trình load data>> Detail: Gặp lỗi trong khi conect với db và truy vấn dữu liệu
+1/9/2016 12:45:31 PM: ERROR: lỗi trong quá trình load data>> Detail: Gặp lỗi trong khi conect với db và truy vấn dữu liệu
+1/9/2016 12:45:39 PM: ERROR: lỗi trong quá trình load data>> Detail: Gặp lỗi trong khi conect với db và truy vấn dữu liệu
+1/9/2016 12:47:06 PM: ERROR: lỗi trong quá trình load data>> Detail: Gặp lỗi trong khi conect với db và truy vấn dữu liệu
+1/9/2016 12:49:06 PM: ERROR: lỗi trong quá trình load data>> Detail: Gặp lỗi trong khi conect với db và truy vấn dữu liệu
+1/9/2016 12:49:36 PM: Đọc file icon gặp lỗi filename: 60.ico
+1/9/2016 12:49:36 PM: Đọc file icon gặp lỗi filename: 61.ico
+1/9/2016 12:49:36 PM: Đọc file icon gặp lỗi filename: 62.ico
