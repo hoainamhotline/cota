@@ -3,6 +3,11 @@
   <PropertyGroup>
     <NameOfLastUsedPublishProfile>Profile1</NameOfLastUsedPublishProfile>
     <ProjectView>ProjectFiles</ProjectView>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort>44300</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>enabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
